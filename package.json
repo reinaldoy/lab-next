@@ -1,0 +1,25 @@
+{
+  "name": "lab-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reinaldoy/lab-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reinaldoy/lab-next/issues"
+  },
+  "homepage": "https://github.com/reinaldoy/lab-next#readme",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
